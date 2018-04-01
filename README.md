@@ -5,6 +5,7 @@
 
 - Watch this [video](https://www.youtube.com/watch?v=O6cmuiTBZVs) to get a bacis idea about handling passwords, and the BCrypt algorithm
 - Read this [article](http://dustwell.com/how-to-handle-passwords-bcrypt.html) to get a better understanding
+- Skim this [article]() to see that size/complexity of the keys/secrets used to sign cookies, JSON Web Token etc. MATTERS
 - Skim only this [OWASP-article](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet)
 
 ## Tuesdays plan
