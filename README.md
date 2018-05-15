@@ -11,5 +11,5 @@
 
 
 ## Tuesdays plan
-We will discuss the most of the topics in the class, but must of the day is for you to complete the [exercises](https://docs.google.com/document/d/1eS3u_N6LQtYgBWa21iW9t17lRJElmlVAQA131SoNO78/edit?usp=sharing)
+We will discuss the most of the topics in the class, but most of the day is for you to complete the [exercises](https://docs.google.com/document/d/1eS3u_N6LQtYgBWa21iW9t17lRJElmlVAQA131SoNO78/edit?usp=sharing)
 
